@@ -9,7 +9,7 @@ Running any of the files will require additional steps, libraries etc which I ha
 **[002 Snowden's Cloak.py](https://github.com/ArtOfTheWeak/ACT/blob/main/002%20SnowdensCloak.js)** 
 This is the main javascript code for the Snowden's Cloak Twitter Bot. 
 
-**003 wordSwap.py** 
+**[003 wordSwap.py](https://github.com/ArtOfTheWeak/ACT/blob/main/003%20originalScareMailSwapper.py)** 
 This is the code used to generate text - with the exception of a few changes from, it is **ALL** Ben Grosser's work.It will not work in isolation and will need various libries and text.
 
 See the original [Scaremail project]( https://github.com/bengrosser/scaremail) for full version
