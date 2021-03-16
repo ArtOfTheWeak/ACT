@@ -7,6 +7,7 @@ They are not exact copies of the actual code, and are meant only to provide an i
 Running any of the files will require additional steps, libraries etc which I have commented in where applicable and possible 
 
 002 Snowden's Cloak: 
+
 This is the main javascript code for the Snowden's Cloak Twitter Bot. 
 
 003 wordSwap.py: 
