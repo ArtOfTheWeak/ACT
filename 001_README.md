@@ -21,8 +21,10 @@ A different iteration of wordSwap.py that allowed me to output large amounts of 
 
 005 protectBot.py:
 A file to run the bot on twitter  
+
 006 protectActRemixed.txt:
 The text file that is used as source, this file/text has been produced using Ben Grosser's script from Scaremail (see 003 wordSwap.py)  
+
 007 credentials.py:
 A file for the twitter API tokens/keys to allow automation. 
 
