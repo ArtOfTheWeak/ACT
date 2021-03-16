@@ -10,7 +10,7 @@ Running any of the files will require additional steps, libraries etc which I ha
 This is the main javascript code for the Snowden's Cloak Twitter Bot. 
 
 **003 wordSwap.py** 
-This is the code used to generate text - with the exception of a few changes from, it is ALL Ben Grosser's work.It will not work in isolation and will need various libries and text.
+This is the code used to generate text - with the exception of a few changes from, it is **ALL** Ben Grosser's work.It will not work in isolation and will need various libries and text.
 
 See the original [Scaremail project]( https://github.com/bengrosser/scaremail) for full version
 
