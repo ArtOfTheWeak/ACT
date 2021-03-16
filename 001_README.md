@@ -29,6 +29,7 @@ A file for the twitter API tokens/keys to allow automation.
 The final components of this project are the files that were run to allow me a localised version for the purpose of exhibiting publicly, using a raspberry pi and a 7" monitor. 
 
 008 exhibitionScreen.py - runs the project locally 
+
 009 protectAmerica.txt - source text  
  
 
