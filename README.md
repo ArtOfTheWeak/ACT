@@ -14,7 +14,7 @@ This is the code used to generate text - with the exception of a few changes fro
 
 See the original [Scaremail project]( https://github.com/bengrosser/scaremail) for full version
 
-**0[04wordSwapTwitter.p](https://github.com/ArtOfTheWeak/ACT/blob/main/004%20wordSwapTwitter.py)y**
+**[004wordSwapTwitter.py](https://github.com/ArtOfTheWeak/ACT/blob/main/004%20wordSwapTwitter.py)**
 A different iteration of wordSwap.py that allowed me to output large amounts of text that could be then used in ACT (next). This version is set to output 280 characters.
 
 **@Protect2007 (ACT) consists of three different files** 
