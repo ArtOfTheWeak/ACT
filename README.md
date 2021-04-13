@@ -1,8 +1,6 @@
 # ACT
 
-The files in this specific git all related to ACT as described in chapter six of the written thesis. 
-
-They are not exact copies of the actual code, and are meant only to provide an insight to how the project evolved by building on other projects andremixing them.
+The files in this specific git all related to ACT as described in chapter six of the written thesis and  provide an insight to how the project evolved by building on other projects and remixing them.
 
 Running any of the files will require additional steps, libraries etc which I have commented in where applicable and possible 
 
