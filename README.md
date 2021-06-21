@@ -2,6 +2,14 @@
 
 The files in this specific git all related to ACT as described in chapter six of the written thesis and  provide an insight to how the project evolved by building on other projects and remixing them.
 
+Act is an online/offline media art intervention that takes the form of an automated bot on the social media platform Twitter. The tweets produced by the bot are an amalgamation of two different text-based sources. The first is the Protect America Act (PAA), an amendment to the Foreign Intelligence Surveillance Act(FISA). FISA was originally passed into law in 1978 to allow the US government to collect intelligence on foreign powers and their respective agents (aclu.org,2021). Along with the Patriot Act (2001), PAA expanded the scope of FISA to permit US intelligence agencies to conduct domestic and foreign surveillance through the development of programs like Prism. Prism was a program that allowed the US National Security Agency (NSA) to collect data belonging to users of Internet services such as Google, Facebook, Outlook and others without the requirement of court orders or any meaningful congressional oversight The second source utilised in Act are a list of words and phrases that were used by the US Department of Homeland Security (DHS) and the National Security Agency (NSA) to monitor social media websites and email. The list contains hundreds of verbs and nouns and is divided into categories including Weather/Disaster/Emergency,Infrastructure Security, Health and Terrorism (epic.org,p.20).
+
+
+Act borrows both conceptually and practically from Scaremail – a project by artist Ben Grosser. The text sources in Act are combined using the same natural language processing (NLP) algorithm developed by Grosser for the Scaremail project.  Act uses Grosser’s code to randomly selects passages from the Protect America Act, replacing certain words from these passages with conjugated words and phrases from the analyst desktop binder to produce new passages that are meant to be natural but are clearly not. These ‘new’ passages are then outputted to a text file, sections of which are then tweeted by the Act bot. 
+
+
+
+
 Running any of the files will require additional steps, libraries etc which I have commented in where applicable and possible 
 
 **[002 Snowden's Cloak.py](https://github.com/ArtOfTheWeak/ACT/blob/main/002%20SnowdensCloak.js)** 
